@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.button {
+    width: 80px;
+    height: 80px;
+    font-size: 45px;
+    margin: 3px;
+}
+#calcScreen {
+    width: 330px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+}
+#zero {
+    width: 168px;
+}
+#equals {
+    height: 168px;
+}
+#ac {
+    width: 168px;
+}
